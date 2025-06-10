@@ -1,5 +1,6 @@
 # Vinayak-Ai-XO-Game
-This is my first ever project in Java, built after learning the basics of the language like variables, loops, conditionals, functions, arrays, and classes. It’s a console-based Tic Tac Toe game where the player (O) competes against an Vinayak-AI (X) powered by a recursive minimax strategy
+
+While learning Java for backend, I found myself missing DSA — so I decided to build something fun. This is a console-based Tic Tac Toe game where the player (O) faces off against Vinayak-AI (X), powered by a recursive minimax game theory strategy, helping me practice the syntax I had just learned.
 
 🎮 Play Tic Tac Toe against VinayakAI (X)
 
