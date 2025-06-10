@@ -7,13 +7,11 @@ Want to test your skills against VinayakAI, the unbeatable Tic Tac Toe bot?
 Here’s how you can play:
 
 🖥️ Option 1:
-Download the Java file and run it using any Java IDE (like IntelliJ, Eclipse) or your terminal.
-
-📱 Option 2:
 Copy and paste the code into an online Java compiler like:
 🔗 https://www.jdoodle.com/online-java-compiler
-🔗 https://onecompiler.com/java
-🔗 https://www.onlinegdb.com/online_java_compiler
+
+📱 Option 2:
+Download the Java file and run it using any Java IDE (like IntelliJ, Eclipse) or your terminal.
 
 Run the code, follow the prompts in the console, and try your best to beat VinayakAI (X).
 Spoiler: It’s not that easy 😉
