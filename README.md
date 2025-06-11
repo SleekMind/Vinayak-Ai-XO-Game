@@ -9,8 +9,7 @@ Here’s how you can play:
 
 🖥️ Option 1:
 Copy and paste the code into an online Java compiler like:
-🔗 https://www.jdoodle.com/online-java-compiler
-
+🔗 [Online Java Compiler ](https://www.programiz.com/java-programming/online-compiler/)
 📱 Option 2:
 Download the Java file and run it using any Java IDE (like IntelliJ, Eclipse) or your terminal.
 
